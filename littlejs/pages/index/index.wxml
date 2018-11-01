@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="begininfo" style="background-image: url('../../images/background.png');background-size: cover">
+  <view class='ep'></view>
+  <button bindtap='beginAnswer'> 开始测试 </button>
+</view>

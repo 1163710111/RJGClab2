@@ -1,0 +1,22 @@
+/* pages/result/result.wxss */
+page{
+  background-color: #99ffcc;
+  background: url("https://github.com/1163410303/1163410303.github.io/raw/master/images/insert_image2.jpg");
+  background-size: cover
+}
+.result_title{
+  margin-left: 10rpx;
+}
+.result{
+  margin: 50px auto;
+  text-align: center;
+}
+
+.mybutton {
+  width: 200px;
+  height: 30px;
+  margin: 150px auto;
+}
+button{
+  float: left; 
+}

@@ -1,0 +1,31 @@
+/* pages/test/test.wxss */
+page{
+  background-color: #99ffcc;
+  background: url("https://github.com/1163410303/1163410303.github.io/raw/master/images/insert_image1.jpg");
+  background-size: cover
+}
+
+.myimage{
+  width: 100%;
+  display: block;
+  /*height: 250rpx;*/
+ 
+}
+.myoptionimage{
+  width:540rpx;
+ /* height:80rpx;*/
+ 
+
+}
+.page_title_question{
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+  border: 1rpx solid #000;
+  overflow: hidden;
+  border-radius: 25rpx;
+}
+.page__title{
+  margin-left: 10rpx;
+}
+
